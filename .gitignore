@@ -1,0 +1,19 @@
+# Obsidian workspace settings
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Obsidian app cache
+.obsidian/cache
+.obsidian/plugins/*/data.json
+
+# Trash folder
+.trash/
+
+# Conflict files created by Obsidian Git
+conflict-files-obsidian-git.md
+
+# Mobile app related
+.mobile
+
+# System files
+.DS_Store
